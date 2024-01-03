@@ -7,7 +7,7 @@ from discord import app_commands
 #----------------------------------------------------
 
 #TOKEN
-TOKEN = "MTE5MTk4ODI2MjkwMjk2ODM1MA.GIN1P4.JzjybhFLDwlWre5wUJLg64XgWIYSXjEXpEdqKU"
+TOKEN = "TOKEN"
 
 sad_words = ["sad", "depressed", "unhappy", "angry", "miserable", "depressing"]
 
